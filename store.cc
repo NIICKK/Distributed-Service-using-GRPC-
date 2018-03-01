@@ -28,7 +28,7 @@ using vendor::BidQuery;
 using vendor::BidReply;
 using vendor::Vendor;
 
-
+//updated
 
 //Store class
 class MyStore final { 
